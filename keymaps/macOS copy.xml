@@ -12,5 +12,6 @@
   <action id="OpenElementInNewWindow" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
 </keymap>
