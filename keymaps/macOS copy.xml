@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="CopyElement" />
   <action id="EditorStartNewLine" />
   <action id="ExecuteInPyConsoleAction" />
   <action id="ExpandExpandableComponent">
@@ -13,5 +14,6 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
 </keymap>
